@@ -5,6 +5,7 @@ SHELL ["/bin/bash", "-Eeuo", "pipefail", "-xc"]
 RUN apt-get update; \
 	apt-get install -y --no-install-recommends \
 		bash-completion \
+		nano \
 		bc \
 		ca-certificates \
 		cpio \
