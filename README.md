@@ -1,6 +1,6 @@
 This is my fork of [boot2docker](https://github.com/boot2docker/boot2docker)
 
-- added kernel modules necessary for strongswan (kernel-config.d/strongswan)
+- added kernel modules necessary for strongswan (files/kernel-config.d/strongswan)
 - added nano text editor
 
 To build the iso:
